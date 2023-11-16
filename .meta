@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "helse-dataprodukter": "git@github.com:navikt/helse-dataprodukter.git",
+    "helse-docs": "git@github.com:navikt/helse-docs.git",
+    "helse-risk-mock": "git@github.com:navikt/helse-risk-mock.git",
+    "helse-sparkelapper": "git@github.com:navikt/helse-sparkelapper.git",
+    "helse-speaker": "git@github.com:navikt/helse-speaker.git",
+    "helse-speil": "git@github.com:navikt/helse-speil.git",
+    "helse-spesialist": "git@github.com:navikt/helse-spesialist.git",
+    "helse-spinnvill": "git@github.com:navikt/helse-spinnvill.git",
+    "helse-spoogle": "git@github.com:navikt/helse-spoogle.git",
+    "helse-spre": "git@github.com:navikt/helse-spre.git",
+    "helse-spre-gosys-pdf": "git@github.com:navikt/helse-spre-gosys-pdf.git"
+  }
+}
