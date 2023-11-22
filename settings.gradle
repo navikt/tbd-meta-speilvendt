@@ -1,0 +1,13 @@
+rootProject.name = "tbd-meta-speilvendt"
+
+includeBuild "helse-dataprodukter"
+includeBuild "helse-docs"
+includeBuild "helse-risk-mock"
+includeBuild "helse-sparkelapper"
+includeBuild "helse-speaker"
+includeBuild "helse-speil"
+includeBuild "helse-spesialist"
+includeBuild "helse-spinnvill"
+includeBuild "helse-spoogle"
+includeBuild "helse-spre"
+includeBuild "helse-spre-gosys-pdf"

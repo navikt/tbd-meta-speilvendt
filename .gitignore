@@ -1,3 +1,5 @@
+.gradle/
+
 /helse-dataprodukter/
 /helse-docs/
 /helse-risk-mock/

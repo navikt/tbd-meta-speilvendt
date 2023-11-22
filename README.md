@@ -21,6 +21,8 @@ Nå kan git brukes som normalt for hvert repo.
 
 Se [meta](https://github.com/mateodelnorte/meta) for flere kommandoer.
 
+Dersom du nå åpner build.gradle med Open (som Project) i IntelliJ så får du alle komponentene inn i ett IntelliJ-oppsett.
+
 ## Henvendelser
 
 Spørsmål knyttet til koden eller prosjektet kan stilles som issues her på GitHub.
