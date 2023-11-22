@@ -14,7 +14,7 @@ npm install meta -g --no-save
 Merk! meta foran vanlig clone-kommando:
 
 ```
-meta git clone git@github.com:navikt/tbd-datadeling.git
+meta git clone git@github.com:navikt/tbd-meta-speilvendt
 ```
 
 Nå kan git brukes som normalt for hvert repo.
