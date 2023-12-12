@@ -1,5 +1,5 @@
-.gradle/
 
+.gradle/
 /helse-dataprodukter/
 /helse-docs/
 /helse-risk-mock/
@@ -9,5 +9,5 @@
 /helse-spesialist/
 /helse-spinnvill/
 /helse-spoogle/
-/helse-spre/
 /helse-spre-gosys-pdf/
+/helse-spre/

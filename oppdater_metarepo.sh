@@ -1,7 +1,7 @@
 meta init --force
-while read -r project
+while read -r project url
 do
-    meta project import "$project" git@github.com:navikt/$project.git
+    meta project import "$project" "git@github.com:navikt/$project".git
 done < repos.txt
 
 # Fjern duplikater fra .gitignore
